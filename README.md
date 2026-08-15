@@ -1,12 +1,12 @@
 # Olá 👋
 
-🚀 **Desenvolvedor Full Stack | .NET & React**   
+🚀 **Desenvolvedor Full Stack |    
 🎓 Graduando em Ciência da Computação  
 🇧🇷 Brasil
 
 Desenvolvo **aplicações web**, **APIs REST** e soluções voltadas para problemas reais, trabalhando tanto no frontend quanto no backend.
 
-Tenho foco principalmente nos ecossistemas **.NET com C#** e **Django com Python**, desenvolvimento frontend com **React e TypeScript** e bancos de dados relacionais como **PostgreSQL**.
+Tenho foco principalmente nos ecossistemas **NestJS com TS** e **Django com Python**, desenvolvimento frontend com **React e TypeScript** e bancos de dados relacionais como **PostgreSQL**.
 
 Busco evoluir constantemente em **arquitetura de software, boas práticas, APIs, bancos de dados e desenvolvimento de aplicações escaláveis e bem estruturadas**.
 
@@ -15,7 +15,7 @@ Busco evoluir constantemente em **arquitetura de software, boas práticas, APIs,
 ## 🧠 O que eu faço
 
 - 💻 Desenvolvimento de aplicações web Full Stack
-- ⚙️ Construção de APIs REST com Django/FastAPI ou .NET 10
+- ⚙️ Construção de APIs REST com Django/FastAPI ou NestJS
 - ⚛️ Desenvolvimento de interfaces com React e TypeScript
 - 🗄️ Modelagem e integração com bancos de dados relacionais
 - 🔐 Autenticação, autorização e controle de acesso
@@ -37,8 +37,6 @@ Busco evoluir constantemente em **arquitetura de software, boas práticas, APIs,
 
 ### Backend
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
