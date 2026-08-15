@@ -1,6 +1,6 @@
 # Olá 👋
 
-🚀 **Desenvolvedor Full Stack |   
+🚀 **Desenvolvedor Full Stack | .NET & React**   
 🎓 Graduando em Ciência da Computação  
 🇧🇷 Brasil
 
@@ -15,7 +15,7 @@ Busco evoluir constantemente em **arquitetura de software, boas práticas, APIs,
 ## 🧠 O que eu faço
 
 - 💻 Desenvolvimento de aplicações web Full Stack
-- ⚙️ Construção de APIs REST com Django/FastAPI ou NestJS
+- ⚙️ Construção de APIs REST com Django/FastAPI ou .NET 10
 - ⚛️ Desenvolvimento de interfaces com React e TypeScript
 - 🗄️ Modelagem e integração com bancos de dados relacionais
 - 🔐 Autenticação, autorização e controle de acesso
