@@ -1,6 +1,6 @@
 # Olá 👋
 
-🚀 **Desenvolvedor Full Stack |    
+🚀 **Desenvolvedor Full Stack  
 🎓 Graduando em Ciência da Computação  
 🇧🇷 Brasil
 
