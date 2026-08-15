@@ -69,12 +69,6 @@ Busco evoluir constantemente em **arquitetura de software, boas práticas, APIs,
 
 ---
 
-## 🚀 Filosofia
-
-> _"Tecnologia vai além de escrever código: é sobre entender problemas e construir soluções que realmente gerem valor."_
-
----
-
 ⭐ Confira meus repositórios para conhecer alguns dos projetos que venho desenvolvendo.
 
 🤝 Aberto a oportunidades, colaborações e novos desafios na área de tecnologia.
