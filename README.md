@@ -61,11 +61,12 @@ Busco evoluir constantemente em **arquitetura de software, boas práticas, APIs,
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=derickdtc&show_icons=true&theme=tokyonight&include_all_commits=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=derickdtc&theme=github_dark" />
 </p>
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derickdtc&layout=compact&theme=tokyonight&langs_count=6" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=derickdtc&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=derickdtc&theme=github_dark" />
 </p>
 
 ⭐ Confira meus repositórios para conhecer alguns dos projetos que venho desenvolvendo.
