@@ -6,7 +6,7 @@
 
 Desenvolvo **aplicações web**, **APIs REST** e soluções voltadas para problemas reais, trabalhando tanto no frontend quanto no backend.
 
-Tenho foco principalmente nos ecossistemas **NestJS com TS** e **Django com Python**, desenvolvimento frontend com **React e TypeScript** e bancos de dados relacionais como **PostgreSQL**.
+Tenho foco principalmente nos ecossistemas **.NET com C#** e **Django com Python**, desenvolvimento frontend com **React e TypeScript** e bancos de dados relacionais como **PostgreSQL**.
 
 Busco evoluir constantemente em **arquitetura de software, boas práticas, APIs, bancos de dados e desenvolvimento de aplicações escaláveis e bem estruturadas**.
 
@@ -15,7 +15,7 @@ Busco evoluir constantemente em **arquitetura de software, boas práticas, APIs,
 ## 🧠 O que eu faço
 
 - 💻 Desenvolvimento de aplicações web Full Stack
-- ⚙️ Construção de APIs REST com Django/FastAPI ou NestJS
+- ⚙️ Construção de APIs REST com Django/FastAPI ou ASP.NET
 - ⚛️ Desenvolvimento de interfaces com React e TypeScript
 - 🗄️ Modelagem e integração com bancos de dados relacionais
 - 🔐 Autenticação, autorização e controle de acesso
