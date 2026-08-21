@@ -1,31 +1,31 @@
 # Olá 👋
 
-🚀 Desenvolvedor Full Stack  
-🎓 Graduando em Ciência da Computação  
+ Desenvolvedor Full Stack  
+ Graduando em Ciência da Computação  
 🇧🇷 Brasil
 
 Desenvolvo **aplicações web**, **APIs REST** e soluções voltadas para problemas reais, trabalhando tanto no frontend quanto no backend.
 
-Tenho foco principalmente nos ecossistemas **.NET com C#** e **Django com Python**, desenvolvimento frontend com **React e TypeScript** e bancos de dados relacionais como **PostgreSQL**.
+Tenho foco principalmente nos ecossistemas **Node.js com TypeScript** e **Django com Python**, desenvolvimento frontend com **React e TypeScript** e bancos de dados relacionais como **PostgreSQL**.
 
 Busco evoluir constantemente em **arquitetura de software, boas práticas, APIs, bancos de dados e desenvolvimento de aplicações escaláveis e bem estruturadas**.
 
 ---
 
-## 🧠 O que eu faço
+##  O que eu faço
 
-- 💻 Desenvolvimento de aplicações web Full Stack
-- ⚙️ Construção de APIs REST com Django/FastAPI ou ASP.NET
-- ⚛️ Desenvolvimento de interfaces com React e TypeScript
-- 🗄️ Modelagem e integração com bancos de dados relacionais
-- 🔐 Autenticação, autorização e controle de acesso
-- 🏢 Desenvolvimento de aplicações multi-tenant
-- ☁️ Integração com serviços de nuvem e armazenamento
-- 📱 Desenvolvimento de aplicações web responsivas e PWA
+-  Desenvolvimento de aplicações web Full Stack
+-  Construção de APIs REST com Django/FastAPI ou ASP.NET
+-  Desenvolvimento de interfaces com React e TypeScript
+-  Modelagem e integração com bancos de dados relacionais
+-  Autenticação, autorização e controle de acesso
+-  Desenvolvimento de aplicações multi-tenant
+-  Integração com serviços de nuvem e armazenamento
+-  Desenvolvimento de aplicações web responsivas e PWA
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 
@@ -59,7 +59,7 @@ Busco evoluir constantemente em **arquitetura de software, boas práticas, APIs,
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=derickdtc&theme=github_dark" />
@@ -70,6 +70,6 @@ Busco evoluir constantemente em **arquitetura de software, boas práticas, APIs,
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=derickdtc&theme=github_dark" />
 </p>
 
-⭐ Confira meus repositórios para conhecer alguns dos projetos que venho desenvolvendo.
+  Confira meus repositórios para conhecer alguns dos projetos que venho desenvolvendo.
 
-🤝 Aberto a oportunidades, colaborações e novos desafios na área de tecnologia.
+  Aberto a oportunidades, colaborações e novos desafios na área de tecnologia.
