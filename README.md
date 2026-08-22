@@ -6,7 +6,7 @@
 
 Desenvolvo **aplicações web**, **APIs REST** e soluções voltadas para problemas reais, trabalhando tanto no frontend quanto no backend.
 
-Tenho foco principalmente nos ecossistemas **Node.js com TypeScript** e **Django com Python**, desenvolvimento frontend com **React e TypeScript** e bancos de dados relacionais como **PostgreSQL**.
+Tenho foco principalmente nos ecossistemas **Node.js com TypeScript** e **.NET com C#**, desenvolvimento frontend com **React e TypeScript** e bancos de dados relacionais como **PostgreSQL**.
 
 Busco evoluir constantemente em **arquitetura de software, boas práticas, APIs, bancos de dados e desenvolvimento de aplicações escaláveis e bem estruturadas**.
 
