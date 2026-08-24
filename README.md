@@ -15,7 +15,7 @@ Busco evoluir constantemente em **arquitetura de software, boas práticas, APIs,
 ##  O que eu faço
 
 -  Desenvolvimento de aplicações web Full Stack
--  Construção de APIs REST com Django/FastAPI ou ASP.NET
+-  Construção de APIs REST com NestJS ou ASP.NET
 -  Desenvolvimento de interfaces com React e TypeScript
 -  Modelagem e integração com bancos de dados relacionais
 -  Autenticação, autorização e controle de acesso
